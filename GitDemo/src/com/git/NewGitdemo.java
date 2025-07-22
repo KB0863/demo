@@ -12,5 +12,9 @@ public void Pull()
   {
   System.out.println("Pull method of Gitdemo class of package com.git");
   }
-
+public void Push()
+{
+	  System.out.println("Push method of Gitdemo class of package com.git");
+	
+}
 }
